@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Jeyaram
+- 👀 I’m interested in Javascript, React, Java & ASP.NET
+- 🌱 I’m currently learning React
+- 💞️ I’m looking to collaborate on a Javascript/Java based Questions API
+- 📫 Reach me on http://JeJe.Im
